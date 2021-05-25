@@ -1,0 +1,33 @@
+html {
+    display: block;
+  min-height: 100%;
+  position: relative;
+}
+body{
+    /background-image:url(https://diarioinforme.com/wp-content/uploads/2021/03/Ilumina-tu-proximo-juego-de-DD-con-Pixel-LED-Powered.jpg);/
+     background-image: url(https://p4.wallpaperbetter.com/wallpaper/848/139/698/simple-background-simple-blueprints-minimalism-wallpaper-preview.jpg);
+    background-size: contain;
+    margin-bottom: 0px;
+}
+
+.box {
+    display: flex;
+        flex-direction:column;
+        align-items: flex-start;
+        height: 100px;
+        width: 100%;
+
+
+
+}
+ 
+.box .intro {
+    align-self: center;
+    background-color: #f55c47;
+    padding: 10px 70px;
+    font-size: 30px;
+    color: #9fe6a0;
+    border-radius: 30px;
+
+
+}
